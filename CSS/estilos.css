@@ -42,7 +42,7 @@
 
 .link-titular:link{
   font-family: "Raleway", sans-serif;
-  font-size: 5.0rem;
+  font-size: 3.0rem;
   font-weight: 800;
   line-height: 2.0;
   text-align: left;
@@ -211,12 +211,10 @@ line-height: 1.5;
 
 body{
   margin: 0 auto;
-  padding: 0 auto;
 }
 
 html{
   margin: 0 auto;
-  padding: 0 auto;
 
 }
 
@@ -273,6 +271,10 @@ html{
 .enlacenaranja{
   color: rgb(189, 55, 0);
   text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.5;
 }
 .enlacenaranja:hover{
   color: rgb(0, 0, 0);
@@ -310,12 +312,20 @@ html{
 
     .video-1{
       padding-bottom: 20px;
+      font-family: "Raleway", sans-serif;
+      font-size: 0.9rem;
+      font-weight: 400;
+      line-height: 1.5;
 
     }
 
 
     .video-2{
       padding-bottom: 20px;
+      font-family: "Raleway", sans-serif;
+      font-size: 0.9rem;
+      font-weight: 400;
+      line-height: 1.5;
 
 
 
@@ -323,6 +333,10 @@ html{
 
     .video-3{
       padding-bottom: 20px;
+      font-family: "Raleway", sans-serif;
+      font-size: 0.9rem;
+      font-weight: 400;
+      line-height: 1.5;
 
 
 
@@ -330,6 +344,10 @@ html{
 
     .video-4{
       padding-bottom: 20px;
+      font-family: "Raleway", sans-serif;
+      font-size: 0.9rem;
+      font-weight: 400;
+      line-height: 1.5;
 
 
     }
@@ -394,6 +412,10 @@ html{
       list-style: none;
       padding: 0;
       margin: 0;
+      font-family: "Raleway", sans-serif;
+      font-size: 1.0rem;
+      font-weight: 800;
+      line-height: 1.5;
     }
     .menu-links li {
       margin-right: 15px;
@@ -453,6 +475,10 @@ html{
       background-color: black;
       color: white;
       text-align: center;
+      font-family: "Raleway", sans-serif;
+      font-size: 0.7rem;
+      font-weight: 400;
+      line-height: 1.0;
     }
 
     .container-grado{
@@ -478,6 +504,11 @@ html{
     .contenedorbghero{
       margin: 0 auto;
       width: 100%;
+      font-family: "Raleway", sans-serif;
+      font-size: 0.9rem;
+      font-weight: 400;
+      line-height: 1.5;
+
 
 
     }
@@ -550,6 +581,10 @@ html{
 
   width: 560px;
   grid-area: video-1;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5;
 
 
 }
@@ -558,6 +593,10 @@ html{
 .video-2{
   width: 560px;
   grid-area: video-2;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5;
 
 
 }
@@ -565,6 +604,10 @@ html{
 .video-3{
   width: 560px;
   grid-area: video-3;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5;
 
 
 }
@@ -572,6 +615,10 @@ html{
 .video-4{
   width: 560px;
   grid-area: video-4;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5;
 
 }
 
@@ -768,6 +815,10 @@ footer{
   background-color: black;
   color: white;
   text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.7rem;
+  font-weight: 400;
+  line-height: 1.0;
 }
 
 
@@ -780,6 +831,11 @@ footer{
 
 
 h2{
+  text-align: left;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.5;
   text-align: left;
 }
 .center{
@@ -809,6 +865,10 @@ h2{
 
 .contenedorbghero{
   margin: 0 auto;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5;
 
 
 }
@@ -825,7 +885,7 @@ h2{
   width: 60%;
 }
 
-.container-1.5{
+.container-15{
   margin: 0 auto;
   width: 50%;
 }
@@ -880,12 +940,21 @@ blockquote {
 
 .enumeracion{
   list-style-type:decimal;
-  padding-bottom: 10px
+  padding-bottom: 10px;
+  font-family: "Raleway", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.5;
 
 
 }
 
 .alinear-centro{
+  font-family: "Raleway", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1.5;
+  text-align: left;
   text-align: center;
   background-color: rgb(244, 244, 244);}
 
